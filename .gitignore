@@ -1,3 +1,6 @@
 *.xls*
 *.dta*
 *.csv*
+*.zip*
+*.png*
+*.ipynb_checkpoints*
